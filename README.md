@@ -1,4 +1,4 @@
-# micardapp
+# Sinagle Profile Page App
 
 A new Flutter application.
 
