@@ -1,4 +1,4 @@
-# Sinagle Profile Page App
+# Profile Page App
 
 A new Flutter application.
 
